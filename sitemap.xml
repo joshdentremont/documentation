@@ -441,6 +441,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://islandora.github.io/documentation/user-documentation/datacite/</loc>
+         <lastmod>2025-09-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://islandora.github.io/documentation/user-documentation/extending/</loc>
          <lastmod>2025-09-03</lastmod>
          <changefreq>daily</changefreq>
